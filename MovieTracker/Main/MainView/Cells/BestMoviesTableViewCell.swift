@@ -31,7 +31,7 @@ class BestMoviesTableViewCell: UITableViewCell {
     private let movieDescriptionLabel: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
-        label.text = "AJCOAveiofvjoiejbvoineoivbnoievioerjoivjoierjvioejriovjieorjvejverjovjeriojvioerjvoierjvijeriojvioerjviojeroivjoirejvoirejovjreojvoierjvioejroivjeoijvoierjovoierjovierjvj"
+        label.text = "AJCOAveiofvjoiejbvoinoierjovierjgjrwngjnvj"
         label.font = .systemFont(ofSize: 14, weight: .regular)
         label.numberOfLines = 0
         return label
